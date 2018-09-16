@@ -1,4 +1,4 @@
-## Welcome to Privacy and Policy Repository
+## Welcome to HIIT & Tabata Privacy and Policy Repository
 
 This is the HIIT & Tabata privacy and policy repository.
 
